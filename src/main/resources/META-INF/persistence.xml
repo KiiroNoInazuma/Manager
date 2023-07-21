@@ -9,7 +9,7 @@
             <property name="javax.persistence.jdbc.url"
                       value="jdbc:postgresql://localhost:5432/example"/>
             <property name="javax.persistence.jdbc.user" value="John Rey"/>
-            <property name="javax.persistence.jdbc.password" value="579cE3091@"/>
+            <property name="javax.persistence.jdbc.password" value="********"/>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
 
             <property name="hibernate.enable_lazy_load_no_trans" value="true"/>
